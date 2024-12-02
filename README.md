@@ -1,11 +1,10 @@
-## ⚠️ สิ่งที่ต้องมี
+## ⚠️ สิ่งที่ต้องมีก่อนที่จะเริ่ม
 1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 2. [BNB Smart Chain](https://chainlist.org/chain/56)
 3. ต้องมี `0.002 BNB` บน BNB Smart Chain
 
 ![Balance](./22.png)
 
-‎ 
 ## 💻 สเปคที่ต้องการสำหรับรันโหนด
 
 ### ขั่นต่ำ:
@@ -24,8 +23,15 @@
 ‎ 
 ## 🌐 วิธีติดตั้งบน Windows
 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
+
+![Folder](./33.png)
+
 2. ดาวน์โหลด Node จาก [Glacier Labs](https://github.com/Glacier-Labs/node-bootstrap/releases) (ไฟล์.exe) ลงในโฟลเดอร์ Glacier
+
+![Download](./44.png)
+
 3. เปิด Notepad ก็อปปี้คำสั่งจากด้านล่าง แล้ววางลงใน Notepad
+
 ```yaml
 Http:
   Listen: "127.0.0.1:10801"
@@ -37,9 +43,23 @@ TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
 ```
 
-4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey [[วิธีดู Private Key]](https://support.metamask.io/managing-my-wallet/secret-recovery-phrase-and-private-keys/how-to-export-an-accounts-private-key/)
+4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey
+
+![PrivateKey](./1.png)
+
+![PrivateKey](./2.png)
+
+![PrivateKey](./3.png)
+
 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
+
+![Saveas](./55.png)
+
+![Saveas](./66.png)
+
 6. เริ่มการทำงานของ Node ได้เลย
+
+![Start](./77.png)
 ‎ 
 ## ✅เช็คการทำงานของ Node
 กก
