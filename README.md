@@ -22,13 +22,13 @@
 </ul>
 
 <h1 align="center">💸 วิธีในการขอ Faucet</h1>
-<h3>1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า <a href="https://chainlist.org/chain/5611" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3 align="center">1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า <a href="https://chainlist.org/chain/5611" target="_blank">[ลิ้งคลิก]</a></h3>
 <img src="./88.png" alt="Addrpc">
 
-<h3>2. ทำการขอ BNB Faucet <a href="https://www.bnbchain.org/en/testnet-faucet" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3 align="center">2. ทำการขอ BNB Faucet <a href="https://www.bnbchain.org/en/testnet-faucet" target="_blank">[ลิ้งคลิก]</a></h3>
 <img src="./111.png" alt="Faucet">
 
-<h3>3. ทำการแลก <code>0.1 BNB</code> จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet <a href="https://opbnb-testnet-bridge.bnbchain.org/deposit" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3 align="center">3. ทำการแลก <code>0.1 BNB</code> จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet <a href="https://opbnb-testnet-bridge.bnbchain.org/deposit" target="_blank">[ลิ้งคลิก]</a></h3>
 <div align="center">
     <img src="./222.png" alt="Brige">
 </div>
