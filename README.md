@@ -40,7 +40,7 @@
 # 🌐 วิธีติดตั้งบน Windows
 ### 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 
-<div style="text-align: center;">
+<div align="center">
 <img src="./33.png" alt="Folder">
 </div>
 
@@ -67,8 +67,8 @@ TEE:
 
 ‎ 
 ### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad
-<div style="text-align: center;">
-    <p>⬇️วิธีดู Private Key⬇️</p>
+<div align="center">
+    <h3>⬇️วิธีดู Private Key⬇️</h3>
 </div>
 
 <div align="center">
