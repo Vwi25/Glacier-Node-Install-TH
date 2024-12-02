@@ -55,8 +55,9 @@ Keystore:
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
 ```
-
+<div align="center">
 <img src="./4444.png" alt="Notepad">
+</div>
 
 <h3 align="center">4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad</h3>
 <div align="center">
@@ -66,14 +67,16 @@ TEE:
 </div>
 
 <h3 align="center">5. File > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml</h3>
+<div align="center">
 <img src="./55.png" alt="Saveas">
 <img src="./66.png" alt="Saveas">
+</div>
 
 <h3 align="center">6. เริ่มการทำงานของ Node ได้เลย</h3>
 <img src="./77.png" alt="Start">
 
 <h1 align="center">✅เช็คการทำงานของ Node</h1>
-<h3 align="center">เข้าเว็บนี้ ---> <a href="https://testnet.nodes.glacier.io/status" target="_blank">https://testnet.nodes.glacier.io/status</a></h3>
+<h3 align="center"> <a href="https://testnet.nodes.glacier.io/status" target="_blank">https://testnet.nodes.glacier.io/status</a></h3>
 <img src="./99.png" alt="Status">
 
 <h1 align="center">🎞️ ฝากติดตาม <a href="https://www.youtube.com/@VwisionMining/videos" target="_blank">Viwsion Mining</a> ด้วยนะครับ</h1>
