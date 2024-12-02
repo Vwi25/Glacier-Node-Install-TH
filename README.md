@@ -52,7 +52,8 @@ RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
 Keystore:
   PrivateKey: "YourPrivateKey"
 TEE:
-  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"```
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
+```
 
 <img src="./4444.png" alt="Notepad">
 
