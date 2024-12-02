@@ -1,20 +1,20 @@
 <h1 align="center">⚠️ สิ่งที่ต้องมีก่อนที่จะเริ่ม</h1>
-<h3 align="center">1. MetaMask Wallet <a href="https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank">[ลิ้งคลิก]</a></h3>
-<h3 align="center">2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน <a href="https://www.glacier.io/points/" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3>1. MetaMask Wallet <a href="https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3>2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน <a href="https://www.glacier.io/points/" target="_blank">[ลิ้งคลิก]</a></h3>
 <img src="./Connet.png" alt="Connect">
 
-<h3 align="center">3. เพิ่ม BNB Smart Chain <a href="https://chainlist.org/chain/56" target="_blank">[ลิ้งคลิก]</a></h3>
-<h3 align="center">4. ต้องมี <code>0.002 BNB</code> บน BNB Smart Chain</h3>
+<h3>3. เพิ่ม BNB Smart Chain <a href="https://chainlist.org/chain/56" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3>4. ต้องมี <code>0.002 BNB</code> บน BNB Smart Chain</h3>
 <img src="./22.png" alt="Balance">
 
 <h1 align="center">💻 สเปคที่ต้องการสำหรับรันโหนด</h1>
-<h3 align="center">ขั้นต่ำ:</h3>
+<h3>ขั้นต่ำ:</h3>
 <ul>
   <li>CPU with 1+ cores</li>
   <li>2GB RAM</li>
   <li>4 Mbps download Internet service</li>
 </ul>
-<h3 align="center">แนะนำ:</h3>
+<h3>แนะนำ:</h3>
 <ul>
   <li>Fast CPU with 2+ cores</li>
   <li>4GB+ RAM</li>
