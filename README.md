@@ -1,13 +1,11 @@
-# Glacier Node Install
+## สเปคเครื่องที่ต้องการสำหรับรันโหนด
 
-## Hardware Requirements
-
-### Minimum:
+### ขั่นต่ำ:
   - CPU with 1+ cores
   - 2GB RAM
   - 4 MBit/sec download Internet service
 
-### Recommended:
+### แนะนำ:
   - Fast CPU with 2+ cores
   - 4GB+ RAM
   - 8+ MBit/sec download Internet service
