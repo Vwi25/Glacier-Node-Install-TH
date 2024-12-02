@@ -44,7 +44,15 @@
 
 <h3>3. เปิด Notepad ก็อปปี้คำสั่งจากด้านล่าง แล้ววางลงใน Notepad</h3>
 
-<pre> ```yaml Http: Listen: "127.0.0.1:10801" Network: "testnet" RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/" Keystore: PrivateKey: "YourPrivateKey" TEE: IpfsURL: "https://greenfield.onebitdev.com/ipfs/" ``` </pre>
+```yaml
+Http:
+  Listen: "127.0.0.1:10801"
+Network: "testnet"
+RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
+Keystore:
+  PrivateKey: "YourPrivateKey"
+TEE:
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"```
 
 <img src="./4444.png" alt="Notepad">
 
