@@ -18,6 +18,9 @@
 ‎ 
 ## 💸 วิธีในการขอ Faucet
 1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า [[ลิ้งคลิก]](https://chainlist.org/chain/5611)
+
+![Addrpc](./88.png)
+
 2. ทำการขอ BNB Faucet [[ลิ้งคลิก]](https://www.bnbchain.org/en/testnet-faucet)
 3. ทำการแลก `0.1 BNB` จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet [[ลิ้งคลิก]](https://opbnb-testnet-bridge.bnbchain.org/deposit)
 ‎ 
@@ -47,10 +50,6 @@ TEE:
 
 ![PrivateKey](./1.gif)
 
-![PrivateKey](./2.gif)
-
-![PrivateKey](./3.gif)
-
 ### 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
 
 ![Saveas](./55.png)
@@ -62,4 +61,10 @@ TEE:
 ![Start](./77.png)
 ‎ 
 ## ✅เช็คการทำงานของ Node
-กก
+### เข้าเว็บนี้ ---> https://testnet.nodes.glacier.io/status
+
+![Start](./99.png)
+
+## 🎞️ ฝากติดตาม [Viwsion Mining](https://www.youtube.com/@VwisionMining/videos) ด้วยนะครับ
+
+![Youtube](./Vwision.png)
