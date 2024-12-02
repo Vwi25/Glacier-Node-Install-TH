@@ -71,10 +71,9 @@ TEE:
     <p>⬇️วิธีดู Private Key⬇️</p>
 </div>
 
-<div style="text-align: center;">
-<img src="./1.gif" alt="Private" width="428" height="720">
-
-<img src="./2.gif" alt="Private" width="428" height="720">
+<div align="center">
+    <img src="./1.gif" alt="Private" width="428" height="720">
+    <img src="./2.gif" alt="Private" width="428" height="720">
 </div>
 
 ‎ 
