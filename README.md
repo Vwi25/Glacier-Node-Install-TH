@@ -22,7 +22,16 @@
 ## 🌐 วิธีติดตั้งบน Windows
 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 2. ดาวน์โหลด Node จาก [Glacier Labs](https://github.com/Glacier-Labs/node-bootstrap/releases) (ไฟล์.exe) ลงในโฟลเดอร์ Glacier
-3. เปิด Notepad ก็อปปี้คำสั่งจาก [ลิ้งนี้](https://glacier-labs.github.io/node-bootstrap/config.yaml) วางลงใน Notepad
+3. เปิด Notepad ก็อปปี้คำสั่งจากด้านล่าง แล้ววางลงใน Notepad
+```yaml
+Http:
+  Listen: "127.0.0.1:10801"
+Network: "testnet"
+RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
+Keystore:
+  PrivateKey: "YourPrivateKey"
+TEE:
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey [[วิธีดู Private Key]](https://support.metamask.io/managing-my-wallet/secret-recovery-phrase-and-private-keys/how-to-export-an-accounts-private-key/)
 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
 6. เริ่มการทำงานของ Node ได้เลย
