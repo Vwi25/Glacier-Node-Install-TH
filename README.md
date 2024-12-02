@@ -35,8 +35,11 @@
 ‎ 
 ### 3. ทำการแลก `0.1 BNB` จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet [[ลิ้งคลิก]](https://opbnb-testnet-bridge.bnbchain.org/deposit)
 
-![Brige](./222.png)
+<div align="center">
+<img src="./222.png" alt="Brige">
+</div>
 ‎
+‎ 
 # 🌐 วิธีติดตั้งบน Windows
 ### 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 
