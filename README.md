@@ -16,7 +16,8 @@
   - Fast CPU with 2+ cores
   - 4GB+ RAM
   - 8+ Mbps download Internet service
-‎ 
+
+'
 # 💸 วิธีในการขอ Faucet
 ### 1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า [[ลิ้งคลิก]](https://chainlist.org/chain/5611)
 
@@ -32,7 +33,7 @@
 
 ![Brige](./222.png)
 ‎
-‎ 
+'
 # 🌐 วิธีติดตั้งบน Windows
 ### 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 
@@ -74,12 +75,13 @@ TEE:
 
 ![Start](./77.png)
 
-‎ 
+‎'
 # ✅เช็คการทำงานของ Node
 ### เข้าเว็บนี้ ---> https://testnet.nodes.glacier.io/status
 
 ![Start](./99.png)
 
+'
 # 🎞️ ฝากติดตาม [Viwsion Mining](https://www.youtube.com/@VwisionMining/videos) ด้วยนะครับ
 
 ![Youtube](./Vwision.png)
