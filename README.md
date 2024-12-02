@@ -45,11 +45,11 @@ TEE:
 
 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey
 
-![PrivateKey](./1.png)
+![PrivateKey](./1.gif)
 
-![PrivateKey](./2.png)
+![PrivateKey](./2.gif)
 
-![PrivateKey](./3.png)
+![PrivateKey](./3.gif)
 
 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
 
