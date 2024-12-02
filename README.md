@@ -2,6 +2,7 @@
 1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 2. [BNB Smart Chain](https://chainlist.org/chain/56)
 3. ต้องมี `0.002 BNB` บน BNB Smart Chain
+![Balance](./22.png)
 ‎ 
 ## 💻 สเปคที่ต้องการสำหรับรันโหนด
 
