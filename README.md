@@ -61,6 +61,8 @@ TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
 ```
 
+![Notepad](./4444.png)
+
 ‎ 
 ### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad ⬇️วิธีดู Private Key⬇️
 
