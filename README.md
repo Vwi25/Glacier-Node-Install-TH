@@ -62,7 +62,7 @@ TEE:
 ```
 
 ‎ 
-### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey
+### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad ⬇️วิธีดู Private Key⬇️
 
 ![PrivateKey](./1.gif)
 
