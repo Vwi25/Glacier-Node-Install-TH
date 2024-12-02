@@ -66,9 +66,9 @@ TEE:
 ‎ 
 ### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad ⬇️วิธีดู Private Key⬇️
 
-<img src="./1.gif" alt="Private" width="500" height="840">
+<img src="./1.gif" alt="Private" width="428" height="720">
 
-<img src="./2.gif" alt="Private" width="500" height="840">
+<img src="./2.gif" alt="Private" width="428" height="720">
 
 ‎ 
 ### 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
