@@ -40,7 +40,9 @@
 # 🌐 วิธีติดตั้งบน Windows
 ### 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 
-![Folder](./33.png)
+<div style="text-align: center;">
+<img src="./33.png" alt="Folder">
+</div>
 
 ‎ 
 ### 2. ดาวน์โหลด Node จาก [Glacier Labs](https://github.com/Glacier-Labs/node-bootstrap/releases) (ไฟล์.exe) ลงในโฟลเดอร์ Glacier
@@ -64,11 +66,16 @@ TEE:
 ![Notepad](./4444.png)
 
 ‎ 
-### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad ⬇️วิธีดู Private Key⬇️
+### 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad
+<div style="text-align: center;">
+    <p>⬇️วิธีดู Private Key⬇️</p>
+</div>
 
+<div style="text-align: center;">
 <img src="./1.gif" alt="Private" width="428" height="720">
 
 <img src="./2.gif" alt="Private" width="428" height="720">
+</div>
 
 ‎ 
 ### 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
