@@ -66,6 +66,8 @@ TEE:
 
 ![PrivateKey](./1.gif)
 
+![PrivateKey](./2.gif)
+
 ‎ 
 ### 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
 
