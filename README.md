@@ -1,10 +1,10 @@
 # ⚠️ สิ่งที่ต้องมีก่อนที่จะเริ่ม
-### 1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-### 2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน
+### 1. MetaMask Wallet [[ลิ้งคลิก]](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+### 2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน [[ลิ้งคลิก]](https://www.glacier.io/points/)
 
 ![Connect](./Connet.png)
 
-### 3. เพิ่ม [BNB Smart Chain](https://chainlist.org/chain/56)
+### 3. เพิ่ม BNB Smart Chain [[ลิ้งคลิก]](https://chainlist.org/chain/56)
 ### 4. ต้องมี `0.002 BNB` บน BNB Smart Chain
 
 ![Balance](./22.png)
