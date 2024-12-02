@@ -31,7 +31,7 @@ RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
 Keystore:
   PrivateKey: "YourPrivateKey"
 TEE:
-  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"```
 4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey [[วิธีดู Private Key]](https://support.metamask.io/managing-my-wallet/secret-recovery-phrase-and-private-keys/how-to-export-an-accounts-private-key/)
 5. กดคำว่า File ซ้ายบน > Save as > Desktop > Glacier > ตั้งชื่อไฟล์ว่า config.yaml
 6. เริ่มการทำงานของ Node ได้เลย
