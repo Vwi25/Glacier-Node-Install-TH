@@ -1,7 +1,7 @@
 ## สิ่งที่ต้องมี
-- ดาวน์โหลดกระเป๋า[MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-- เพิ่ม [BNB Smart Chain](https://chainlist.org/chain/56)
-- ต้องมีขั่นต่ำ 0.002 BNB บน BNB Smart Chain
+1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+2. [BNB Smart Chain](https://chainlist.org/chain/56)
+3. ต้องมี 0.002 BNB บน BNB Smart Chain
 
 ## สเปคที่ต้องการสำหรับรันโหนด
 
@@ -15,11 +15,13 @@
   - 8+ Mbps download Internet service
 
 ## วิธีในการขอ Faucet
-- เพิ่ม Network ของ [opBNB Testnet](https://chainlist.org/chain/5611) ลงในกระเป๋า
-- ขอ [BNB Faucet](https://www.bnbchain.org/en/testnet-faucet)
-- ทำการแลก 0.1 BNB จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet
-  - https://opbnb-testnet-bridge.bnbchain.org/deposit
+1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า [[ลิ้งคลิก]](https://chainlist.org/chain/5611)
+2. ทำการขอ BNB Faucet [[ลิ้งคลิก]](https://www.bnbchain.org/en/testnet-faucet)
+3. ทำการแลก 0.1 BNB จาก BNB Smart Chain Testnet ไปยัง opBNB Testnet [[ลิ้งคลิก]](https://opbnb-testnet-bridge.bnbchain.org/deposit)
 
-## วิธีติดตั้ง
+## วิธีติดตั้งบน Windows
+1. สร้าง Folder ใหม่ชื่อว่า Glacier 
+  - Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
+2. ดาวน์โหลด Node จาก [Glacier Labs](https://github.com/Glacier-Labs/node-bootstrap/releases) (ที่ลงท้ายด้วย .exe)
+3.
 
-https://github.com/Glacier-Labs/node-bootstrap/releases
