@@ -43,18 +43,9 @@
 <img src="./44.png" alt="Download">
 
 <h3>3. เปิด Notepad ก็อปปี้คำสั่งจากด้านล่าง แล้ววางลงใน Notepad</h3>
-<pre>
-<code>
-Http:
-  Listen: "127.0.0.1:10801"
-Network: "testnet"
-RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
-Keystore:
-  PrivateKey: "YourPrivateKey"
-TEE:
-  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
-</code>
-</pre>
+
+<pre> ```yaml Http: Listen: "127.0.0.1:10801" Network: "testnet" RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/" Keystore: PrivateKey: "YourPrivateKey" TEE: IpfsURL: "https://greenfield.onebitdev.com/ipfs/" ``` </pre>
+
 <img src="./4444.png" alt="Notepad">
 
 <h3>4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad</h3>
