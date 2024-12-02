@@ -1,7 +1,11 @@
 # ⚠️ สิ่งที่ต้องมีก่อนที่จะเริ่ม
-1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-2. [BNB Smart Chain](https://chainlist.org/chain/56)
-3. ต้องมี `0.002 BNB` บน BNB Smart Chain
+### 1. [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+### 2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน
+
+![Connect](./Connet.png)
+
+### 3. เพิ่ม [BNB Smart Chain](https://chainlist.org/chain/56)
+### 4. ต้องมี `0.002 BNB` บน BNB Smart Chain
 
 ![Balance](./22.png)
 
@@ -17,7 +21,7 @@
   - 4GB+ RAM
   - 8+ Mbps download Internet service
 
-'
+‎ 
 # 💸 วิธีในการขอ Faucet
 ### 1. เพิ่ม Network ของ opBNB Testnet ลงในกระเป๋า [[ลิ้งคลิก]](https://chainlist.org/chain/5611)
 
@@ -33,7 +37,6 @@
 
 ![Brige](./222.png)
 ‎
-'
 # 🌐 วิธีติดตั้งบน Windows
 ### 1. สร้างโฟลเดอร์ใหม่ชื่อว่า Glacier ไปที่ Desktop > คลิกขวา > New > Folder > พิมพ์ว่า Glacier > Enter
 
@@ -75,13 +78,11 @@ TEE:
 
 ![Start](./77.png)
 
-‎'
 # ✅เช็คการทำงานของ Node
 ### เข้าเว็บนี้ ---> https://testnet.nodes.glacier.io/status
 
 ![Start](./99.png)
 
-'
 # 🎞️ ฝากติดตาม [Viwsion Mining](https://www.youtube.com/@VwisionMining/videos) ด้วยนะครับ
 
 ![Youtube](./Vwision.png)
