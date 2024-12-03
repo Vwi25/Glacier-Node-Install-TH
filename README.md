@@ -72,8 +72,9 @@ TEE:
 <img src="./66.png" alt="Saveas">
 </div>
 
-<h3 align="center">6. เริ่มการทำงานของ Node ได้เลย</h3>
+<h3 align="center">6. เช็คว่าทั้งสองไฟล์อยู่ใน Folder เดียวกัน & เริ่มการทำงานของ Node ได้เลย</h3>
 <img src="./77.png" alt="Start">
+<img src="./5555.png" alt="Start">
 
 <h1 align="center">✅เช็คการทำงานของ Node</h1>
 <h3 align="center"> <a href="https://testnet.nodes.glacier.io/status" target="_blank">https://testnet.nodes.glacier.io/status</a></h3>
