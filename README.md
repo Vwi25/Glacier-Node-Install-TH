@@ -77,6 +77,9 @@ TEE:
 <img src="./5555.png" alt="Start">
 
 <h1 align="center">✅เช็คการทำงานของ Node</h1>
+<h3 align="center">รอให้ Node ของเราลงทะเบียนกับ Blockcain ใช้เวลาประมาณ 10 นาที</h3>
+<img src="./1234.png" alt="Check">
+
 <h3 align="center"> <a href="https://testnet.nodes.glacier.io/status" target="_blank">https://testnet.nodes.glacier.io/status</a></h3>
 <img src="./99.png" alt="Status">
 
