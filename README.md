@@ -59,7 +59,7 @@ TEE:
 <img src="./4444.png" alt="Notepad">
 </div>
 
-<h3 align="center">4. วาง PrivateKey ของกระเป๋าเรา แทนคำว่า YourPrivateKey ใน Notepad</h3>
+<h3 align="center">4. ใส่ PrivateKey กระเป๋าของเราแทนคำว่า "YourPrivateKey" ใน Notepad</h3>
 <div align="center">
     <h3>⬇️วิธีดู Private Key⬇️</h3>
     <img src="./1.gif" alt="Private" width="428" height="720">
