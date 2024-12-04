@@ -1,6 +1,6 @@
 <h1 align="center">⚠️ สิ่งที่ต้องมีก่อนที่จะเริ่ม</h1>
 <h3>1. MetaMask Wallet <a href="https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank">[ลิ้งคลิก]</a></h3>
-<h3>2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน <a href="https://www.glacier.io/points/" target="_blank">[ลิ้งคลิก]</a></h3>
+<h3>2. เชื่อมกระเป๋าเพื่อลงทะเบียน & ดูคะแนน <a href="https://www.glacier.io/points/?inviter=0x5B9f9cC817a48149D1912D0c152c0fBc7dCB544e" target="_blank">[ลิ้งคลิก]</a></h3>
 <img src="./Connet.png" alt="Connect">
 
 <h3>3. เพิ่ม BNB Smart Chain <a href="https://chainlist.org/chain/56" target="_blank">[ลิ้งคลิก]</a></h3>
